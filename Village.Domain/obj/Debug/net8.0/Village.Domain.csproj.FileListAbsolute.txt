@@ -1,0 +1,22 @@
+C:\Users\isken\RiderProjects\Village Government Database\Village.Domain\bin\Debug\net8.0\Village.Domain.deps.json
+C:\Users\isken\RiderProjects\Village Government Database\Village.Domain\bin\Debug\net8.0\Village.Domain.dll
+C:\Users\isken\RiderProjects\Village Government Database\Village.Domain\bin\Debug\net8.0\Village.Domain.pdb
+C:\Users\isken\RiderProjects\Village Government Database\Village.Domain\obj\Debug\net8.0\Village.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isken\RiderProjects\Village Government Database\Village.Domain\obj\Debug\net8.0\Village.Domain.AssemblyInfoInputs.cache
+C:\Users\isken\RiderProjects\Village Government Database\Village.Domain\obj\Debug\net8.0\Village.Domain.AssemblyInfo.cs
+C:\Users\isken\RiderProjects\Village Government Database\Village.Domain\obj\Debug\net8.0\Village.Domain.csproj.CoreCompileInputs.cache
+C:\Users\isken\RiderProjects\Village Government Database\Village.Domain\obj\Debug\net8.0\Village.Domain.dll
+C:\Users\isken\RiderProjects\Village Government Database\Village.Domain\obj\Debug\net8.0\refint\Village.Domain.dll
+C:\Users\isken\RiderProjects\Village Government Database\Village.Domain\obj\Debug\net8.0\Village.Domain.pdb
+C:\Users\isken\RiderProjects\Village Government Database\Village.Domain\obj\Debug\net8.0\ref\Village.Domain.dll
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Domain\bin\Debug\net8.0\Village.Domain.deps.json
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Domain\bin\Debug\net8.0\Village.Domain.dll
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Domain\bin\Debug\net8.0\Village.Domain.pdb
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Domain\obj\Debug\net8.0\Village.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Domain\obj\Debug\net8.0\Village.Domain.AssemblyInfoInputs.cache
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Domain\obj\Debug\net8.0\Village.Domain.AssemblyInfo.cs
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Domain\obj\Debug\net8.0\Village.Domain.csproj.CoreCompileInputs.cache
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Domain\obj\Debug\net8.0\Village.Domain.dll
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Domain\obj\Debug\net8.0\refint\Village.Domain.dll
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Domain\obj\Debug\net8.0\Village.Domain.pdb
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Domain\obj\Debug\net8.0\ref\Village.Domain.dll

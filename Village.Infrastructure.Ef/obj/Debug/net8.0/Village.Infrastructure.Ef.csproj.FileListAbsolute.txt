@@ -1,0 +1,34 @@
+C:\Users\isken\RiderProjects\Village Government Database\Village.Infrastructure.Ef\bin\Debug\net8.0\Village.Infrastructure.Ef.deps.json
+C:\Users\isken\RiderProjects\Village Government Database\Village.Infrastructure.Ef\bin\Debug\net8.0\Village.Infrastructure.Ef.runtimeconfig.json
+C:\Users\isken\RiderProjects\Village Government Database\Village.Infrastructure.Ef\bin\Debug\net8.0\Village.Infrastructure.Ef.dll
+C:\Users\isken\RiderProjects\Village Government Database\Village.Infrastructure.Ef\bin\Debug\net8.0\Village.Infrastructure.Ef.pdb
+C:\Users\isken\RiderProjects\Village Government Database\Village.Infrastructure.Ef\bin\Debug\net8.0\Village.Domain.dll
+C:\Users\isken\RiderProjects\Village Government Database\Village.Infrastructure.Ef\bin\Debug\net8.0\Village.Domain.pdb
+C:\Users\isken\RiderProjects\Village Government Database\Village.Infrastructure.Ef\obj\Debug\net8.0\Village.Infrastructure.Ef.csproj.AssemblyReference.cache
+C:\Users\isken\RiderProjects\Village Government Database\Village.Infrastructure.Ef\obj\Debug\net8.0\Village.Infrastructure.Ef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isken\RiderProjects\Village Government Database\Village.Infrastructure.Ef\obj\Debug\net8.0\Village.Infrastructure.Ef.AssemblyInfoInputs.cache
+C:\Users\isken\RiderProjects\Village Government Database\Village.Infrastructure.Ef\obj\Debug\net8.0\Village.Infrastructure.Ef.AssemblyInfo.cs
+C:\Users\isken\RiderProjects\Village Government Database\Village.Infrastructure.Ef\obj\Debug\net8.0\Village.Infrastructure.Ef.csproj.CoreCompileInputs.cache
+C:\Users\isken\RiderProjects\Village Government Database\Village.Infrastructure.Ef\obj\Debug\net8.0\Village.Infrastructure.Ef.csproj.CopyComplete
+C:\Users\isken\RiderProjects\Village Government Database\Village.Infrastructure.Ef\obj\Debug\net8.0\Village.Infrastructure.Ef.dll
+C:\Users\isken\RiderProjects\Village Government Database\Village.Infrastructure.Ef\obj\Debug\net8.0\refint\Village.Infrastructure.Ef.dll
+C:\Users\isken\RiderProjects\Village Government Database\Village.Infrastructure.Ef\obj\Debug\net8.0\Village.Infrastructure.Ef.pdb
+C:\Users\isken\RiderProjects\Village Government Database\Village.Infrastructure.Ef\obj\Debug\net8.0\Village.Infrastructure.Ef.genruntimeconfig.cache
+C:\Users\isken\RiderProjects\Village Government Database\Village.Infrastructure.Ef\obj\Debug\net8.0\ref\Village.Infrastructure.Ef.dll
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Infrastructure.Ef\bin\Debug\net8.0\Village.Infrastructure.Ef.deps.json
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Infrastructure.Ef\bin\Debug\net8.0\Village.Infrastructure.Ef.runtimeconfig.json
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Infrastructure.Ef\bin\Debug\net8.0\Village.Infrastructure.Ef.dll
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Infrastructure.Ef\bin\Debug\net8.0\Village.Infrastructure.Ef.pdb
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Infrastructure.Ef\bin\Debug\net8.0\Village.Domain.dll
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Infrastructure.Ef\bin\Debug\net8.0\Village.Domain.pdb
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Infrastructure.Ef\obj\Debug\net8.0\Village.Infrastructure.Ef.csproj.AssemblyReference.cache
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Infrastructure.Ef\obj\Debug\net8.0\Village.Infrastructure.Ef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Infrastructure.Ef\obj\Debug\net8.0\Village.Infrastructure.Ef.AssemblyInfoInputs.cache
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Infrastructure.Ef\obj\Debug\net8.0\Village.Infrastructure.Ef.AssemblyInfo.cs
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Infrastructure.Ef\obj\Debug\net8.0\Village.Infrastructure.Ef.csproj.CoreCompileInputs.cache
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Infrastructure.Ef\obj\Debug\net8.0\Village.Infrastructure.Ef.csproj.CopyComplete
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Infrastructure.Ef\obj\Debug\net8.0\Village.Infrastructure.Ef.dll
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Infrastructure.Ef\obj\Debug\net8.0\refint\Village.Infrastructure.Ef.dll
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Infrastructure.Ef\obj\Debug\net8.0\Village.Infrastructure.Ef.pdb
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Infrastructure.Ef\obj\Debug\net8.0\Village.Infrastructure.Ef.genruntimeconfig.cache
+C:\Users\isken\Desktop\Iskender\OshSU\Тилек агай\Village Government Database\Village.Infrastructure.Ef\obj\Debug\net8.0\ref\Village.Infrastructure.Ef.dll
